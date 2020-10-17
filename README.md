@@ -7,7 +7,7 @@
 
 ***Federalist is updated regularly. [Join our public chat room](https://chat.18f.gov/) to talk to us and stay informed. You can also check out our [documentation](https://federalist.18f.gov/) to learn more.***
 
-## About Federalist
+## About  
 
 [Federalist](https://federalist.18f.gov) helps federal government entities publish compliant static websites quickly and seamlessly. Federalist integrates with GitHub and is built on top of [cloud.gov](https://cloud.gov), which uses Amazon Web Services.
 
